@@ -15,7 +15,7 @@ import java.sql.Date;
 
 public class TestDataGenerator {
 
-    // JDBC setting for database
+    // JDBC sddasdsd
     private static final String JDBC_URL = "jdbc:postgresql://localhost/resume";
     private static final String JDBC_USERNAME = "resume";
     private static final String JDBC_PASSWORD = "password";
